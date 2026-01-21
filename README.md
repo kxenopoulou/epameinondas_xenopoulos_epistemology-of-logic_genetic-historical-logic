@@ -1,4 +1,6 @@
 # Εpistemology-of-Logic
+ISBN 978-618-87332-0-6
+
 Xenopoulos Mathematical Formalization of Logic-Dialectic and AI Applications
 From Ancient Greek Philosophical Foundations to Modern Computational Intelligence
 

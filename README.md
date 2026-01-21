@@ -1,4 +1,4 @@
-# epistemology-of-logic
+# Εpistemology-of-Logic
 Xenopoulos Mathematical Formalization of Logic-Dialectic and AI Applications
 From Ancient Greek Philosophical Foundations to Modern Computational Intelligence
 

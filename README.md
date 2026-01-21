@@ -182,7 +182,7 @@ Access to the Source Text
 📧 Rights & Permissions: For inquiries regarding the text, translation, or special permissions, please contact: katerinaxenopoulou@gmail.com.
 
 
-*This work is dedicated to the memory and intellectual legacy of Epameinondas Xenopoulos (1934-1994).*
+*This work is dedicated to the memory and intellectual legacy of Epameinondas Xenopoulos (1920-1994).*
 
 
 
@@ -358,4 +358,4 @@ original_tables/ – Ψηφιοποιημένοι ακριβείς πίνακε�
 
 Για τεχνικά θέματα ή συνεισφορές στο αποθετήριο: Ανοίξτε ένα Issue ή Pull Request εδώ στο GitHub.
 
-*Το έργο αυτό είναι αφιερωμένο στη μνήμη του Επαμεινώνδα Ξενόπουλου (1934-1994) και στη συνέχιση της πνευματικής του κληρονομιάς.*
+*Το έργο αυτό είναι αφιερωμένο στη μνήμη του Επαμεινώνδα Ξενόπουλου (1920-1994) και στη συνέχιση της πνευματικής του κληρονομιάς.*

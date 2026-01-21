@@ -1,6 +1,9 @@
-
 Epistemology of Logic: Logic – Dialectic or Theory of Knowledge
 Repository for the Study and Formalization of Dialectical Logic according to the work of Epameinondas Xenopoulos
+
+This repository formalizes Epameinondas Xenopoulos' work, "Epistemology of Logic: Logic-Dialectic or Theory of Knowledge" (1998, 2nd 2024), into modern computational frameworks. Drawing on 2,500 years of Greek philosophy, it introduces a novel approach to AI reasoning that addresses contradictions, temporal dynamics, and qualitative transformation. 
+
+Xenopoulos by synthesizing the static precision of formal logic (Hilbert) with the dynamic genesis of cognitive structures (Piaget), he forged a new and more powerful instrument of thought—a true Novum Organum. For this radical synthesis, Xenopoulos can be characterized as an 'Einstein of Dialectical Logic'.
 
 [[License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%2520BY--NC%25204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [[ISBN: 978-618-87332-0-6](https://img.shields.io/badge/ISBN-978--618--87332--0--6-green)](https://www.google.com/search?q=978-618-87332-0-6)

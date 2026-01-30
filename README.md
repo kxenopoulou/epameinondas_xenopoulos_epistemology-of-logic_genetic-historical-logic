@@ -1,7 +1,7 @@
 
 # Epistemology of Logic: Logic–Dialectic or Theory of Knowledge
 
-**Dedicated to the memory of Epameinondas Xenopoulos (1920–1994), my father.**
+**Dedicated to the memory of the Greek Philosopher Εpameinondas Xenopoulos (1920–1994), my father.**
 
 
 ![313-314_Page_1 jpg 3](https://github.com/user-attachments/assets/85352a8e-6009-4ea1-8b5e-a5139f5e6a89)                           ![12 jpg-](https://github.com/user-attachments/assets/96401677-5a5d-4a7e-bcfb-f4305f329d2d)

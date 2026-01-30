@@ -1,3 +1,6 @@
+
+Conceptual Overview (Summary Table)
+
 # Comparative Table  
 Formal Logic and Dialectical‑Genetic Logic  
 (Xenopoulos)

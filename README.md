@@ -9,10 +9,11 @@
 
 
 markdown
-# 🧬 GENETIC–HISTORICAL LOGIC  # ⚡ The First Complete Formalization of Dialectical Becoming  
+# 🧬 GENETIC–HISTORICAL LOGIC  
 
- 
-# The End of A = A: Xenopoulos and the Logic of Becoming
+ # The End of A = A: Xenopoulos and the Logic of Becoming
+
+ # ⚡ The First Complete Formalization of Dialectical Becoming  
 
 ### *A System by Epameinondas Xenopoulos*
 
@@ -30,7 +31,7 @@ markdown
 ---
 
 ## 📚 About the Book  
-**Epistemology of Logic: Logic–Dialectics or Theory of Knowledge**
+**Epistemology of Logic: Logic–Dialectic or Theory of Knowledge**
 
 
 

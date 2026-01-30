@@ -1,5 +1,9 @@
-# Comparative Table: Formal (Traditional) Logic vs. Dialectical Logic (Xenopoulos)
+# The End of A = A: Xenopoulos and the Logic of Becoming
 
+## Comparative Table: Formal Logic and Dialectical‑Genetic Logic — Logical Transformation and Ontological/Epistemological Qualitative Leap (Xenopoulos)
+
+
+  ---
 | Characteristic                  | Formal (Traditional/Static) Logic                                                                                                     | Dialectical Logic (Xenopoulos)                                                                                                    |
 | :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
 | **Philosophical Origin**        | Parmenidean (pp. 10, 15, 33, 48, 271)                                                                                               | Heraclitean/Hegelian (pp. 10, 15, 274)                                                                                           |

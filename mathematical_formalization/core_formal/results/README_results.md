@@ -81,7 +81,7 @@ bibtex
   year         = {2026},
   howpublished = {GitHub repository},
   publisher    = {GitHub},
-  url          = {https://github.com/xenopoulos-logic/genetic-historical-logic/tree/main/results/32_principles_complete}
+  url          = { https://github.com/kxenopoulou/epameinondas_xenopoulos_epistemology-of-logic-genetic-historical-logic}
 }
 And the original work:
 

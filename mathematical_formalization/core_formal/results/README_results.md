@@ -81,7 +81,7 @@ bibtex
   year         = {2026},
   howpublished = {GitHub repository},
   publisher    = {GitHub},
-  url          = {https://github.com/kxenopoulou/epameinondas_xenopoulos_epistemology-of-logic-genetic-historical-logic}
+  url          = {https://github.com/kxenopoulou/epameinondas_xenopoulos_epistemology-of-logic_genetic-historical-logic}
 }
 And the original work:
 
@@ -94,7 +94,7 @@ bibtex
   address      = {Kefalonia, Greece},
   isbn         = {978-618-87332-0-6},
   edition      = {2nd}
-  {https://github.com/kxenopoulou/epameinondas_xenopoulos_epistemology-of-logic-genetic-historical-logic}
+  url          = {https://github.com/kxenopoulou/epameinondas_xenopoulos_epistemology-of-logic_genetic-historical-logic}
 }
 🔗 Links
 📘 Original Book: epistemologyoflogic.com

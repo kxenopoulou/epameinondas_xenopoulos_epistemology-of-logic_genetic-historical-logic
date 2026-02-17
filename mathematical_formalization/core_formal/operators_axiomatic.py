@@ -1,4 +1,3 @@
-
 """
 AXIOMATIC OPERATOR DEFINITIONS - CORE FORMAL SIGNATURES
 Minimal core: ONLY dialectical operator signatures WITHOUT ANY implementation

@@ -207,6 +207,38 @@ Acceleration precedes velocity:
 
 ---
 
+📚 References
+Xenopoulos, E. (2024). Epistemology of Logic: Logic‑Dialectic or Theory of Knowledge (2nd ed.). Athens: Aristotelous Publications. ISBN 978‑618‑87332‑0‑6.
+DOI: https://doi.org/10.5281/zenodo.15846935
+
+Xenopoulos, E. (1979). The Dialectic of Consciousness. Athens.
+
+Xenopoulos, E. (Unpublished). Supplementary Manuscripts to Chapter VI.
+
+Xenopoulou, K. (2026). The 34th Principle: A Stochastic Nonlinear Formalization of Genetic‑Historical Logic. Zenodo.
+DOI: https://doi.org/10.5281/zenodo.15846935
+
+Xenopoulos, E., & Xenopoulou, K. (2024). Xenopoulos Dialectical Model (XDM). Zenodo.
+DOI: https://doi.org/10.5281/zenodo.14929816
+
+Øksendal, B. (2003). Stochastic Differential Equations: An Introduction with Applications (6th ed.). Springer.
+
+Strogatz, S. H. (2018). Nonlinear Dynamics and Chaos (2nd ed.). CRC Press.
+
+Khasminskii, R. (2012). Stochastic Stability of Differential Equations (2nd ed.). Springer.
+
+Piaget, J. (1970). Genetic Epistemology. Columbia University Press.
+
+Hegel, G. W. F. (1812–1816). Science of Logic.
+
+Prigogine, I. (1980). From Being to Becoming: Time and Complexity in the Physical Sciences. W. H. Freeman.
+
+🔗 Availability
+Zenodo Record: https://zenodo.org/records/15846935
+GitHub Repository: https://github.com/kxenopoulou/xenopoulos-34th-principle
+License: Creative Commons Attribution–NonCommercial 4.0 International (CC BY‑NC 4.0)
+
+
 ## 📧 Contact
 
 **Author:** Katerina Xenopoulou  

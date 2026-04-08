@@ -7,14 +7,38 @@
 ![313-314_Page_1 jpg 3](https://github.com/user-attachments/assets/85352a8e-6009-4ea1-8b5e-a5139f5e6a89)                           ![12 jpg-](https://github.com/user-attachments/assets/96401677-5a5d-4a7e-bcfb-f4305f329d2d)
 
 
-**Author:** Epameinondas Xenopoulos  
-**ORCID:** https://orcid.org/0009-0000-1736-8555
+## Author
+
+**Katerina Xenopoulou**  
+Independent Researcher, Kefalonia, Greece  
+ORCID: 0009-0004-9057-7432  
+Correspondence: katerinaxenopoulou@gmail.com  
+
+---
+
+## Theoretical Foundation
+
+**Epameinondas Xenopoulos †**  
+*Epistemology of Logic: Logic–Dialectic or Theory of Knowledge* (2nd ed., 2024)  
+ORCID: 0009-0000-1736-8555  
+
+† *In memoriam (1920–1994)*
 
 
 markdown
 # 🧬 GENETIC–HISTORICAL LOGIC  
 
  # The End of A = A? Identity is not abolished; it is historicized (page 101)
+
+ ## 📌 Scientific Clarification
+
+This repository constitutes an interpretive and computational exploration inspired by the philosophical work of the Greek philosopher **Epameinondas Xenopoulos**, *Epistemology of Logic* (1998, 2nd edition 2024).
+
+It is **not identical** with the original work and does **not represent an authoritative or definitive formulation** of his system. The philosophical work of Epameinondas Xenopoulos remains autonomous and historically grounded.
+
+The mathematical, formal, and computational developments presented here constitute a **contemporary research approach** — inspired by the original work, but **not equivalent to it**.
+
+---
  
 ..."Thus, to return to our subject, we maintain that the diachronic trajectory of thought and its logical structures is dialectical. The primordial differentiation and opposition within the very course of "thought" itself consists in the direction toward the acquisition of its formal-static structures.
 
